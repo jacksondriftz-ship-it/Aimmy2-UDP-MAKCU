@@ -9,7 +9,7 @@ to get the udp function to work youll need to first choose your model. then fill
 The app will then throw a popup asking for network access to be able to see the stream thats incoming once you agree it will show the fps and latency
 of the stream
 
-NOTW you will see nothing yet it will still detect and can draw boxes that you can see on your desktop, aimmy handles the stream simply as a display so the incoming stream wont be shown
+NOTE you will see nothing yet it will still detect and can draw boxes that you can see on your desktop, aimmy handles the stream simply as a display so the incoming stream wont be shown
 
 im not a programmer by any means, ill try and help with errors but im nothing like the creators of the aimmy project
 
